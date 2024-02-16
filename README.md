@@ -26,6 +26,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 
+  <a href="https://www.facebook.com/abrab.ome.5" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Connect-brightgreen?style=for-the-badge&labelColor=black&logo=facebook" target="_blank" />
+  </a>
+
+
 </div>
 
  <hr/>
