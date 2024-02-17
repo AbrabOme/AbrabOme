@@ -68,4 +68,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=AbrabOme&label=Profile%20Views&color=8&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
-
+![snake gif](https://github.com/AbrabOme/AbrabOme/blob/output/github-contribution-grid-snake.gif)
