@@ -37,6 +37,10 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
+
+<br/>
+<hr/>
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -44,11 +48,6 @@
   
   <br/><br/><br/>
 </div>
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
   <br>
 
   <br/><br/><br/>
