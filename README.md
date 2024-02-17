@@ -38,10 +38,12 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,php,mysql" />
-    <img src="https://skillicons.dev/icons?i=python" /><br>
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AbrabOme/AbrabOme/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
 </div>
-
 <br/>
 <hr/>
 
