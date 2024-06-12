@@ -10,7 +10,7 @@
  
 
  
- 🌱 I’m currently learning **AI, ML**
+ 🌱 I’m currently learning **AI, ML, NLP**
 
 💬 Ask me about anything
 
@@ -38,7 +38,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,php,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,php,bootstrap,arduino" />
     <img src="https://skillicons.dev/icons?i=python,mysql" /><br>
 </div>
 
