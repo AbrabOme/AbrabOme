@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Abrab+Ome!;" />
 </h1>
 
-<h3 align="center">3rd year Computer Engneering Student from BD</h3>
+<h3 align="center">Final year Computer Engneering Student from BD</h3>
 
 <br/>
 
